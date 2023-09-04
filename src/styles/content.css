@@ -1,0 +1,58 @@
+.slider-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.my-container{
+  width: 100vw;
+}
+
+.slider-track {
+  display: flex;
+  column-gap: 10px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  cursor: pointer;
+}
+
+.pre-btn,
+.next-btn {
+  border: none;
+  width: 60px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.my-heading{
+  color: white;
+}
+
+.next-btn {
+  right: 0;
+  background: linear-gradient(270deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 96.38%);
+}
+.pre-btn{
+  background: linear-gradient(270deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 96.38%);
+}
+
+.next-btn svg,
+.pre-btn svg {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-size: 1.5rem;
+  fill: white;
+  cursor: pointer;
+}
+
+.more svg{
+  fill : white;
+}
+

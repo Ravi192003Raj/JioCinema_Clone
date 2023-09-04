@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.my-nav{
+    background-color: #0D0E10;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 65px;
+    width: 90vw;
+    margin: 0 auto;
+    
+}
+.left-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 8px;
+}
+.left-content a{
+    text-decoration: none;
+    color: white;
+}
+.left-content ul
+{
+    list-style:none;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 8px;
+}
+.subscribe
+{
+    cursor: pointer;
+    padding: 6px 12px;
+    color: rgb(193, 163, 98);
+    border: 2px solid rgb(193, 163, 98);
+    border-radius: 34px;
+    margin-left: 8px;
+    z-index: 1;
+}
+.left-content ul li{
+    margin-left: 8px;
+    padding: 12px 8px;
+}
+.left-content ul a
+{
+    text-decoration: none;
+    font-weight: 600;
+}
+.jio-logo
+{
+    cursor: pointer;
+}
+
+.right-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 8px;
+}
+.search-voice 
+{
+    background-color: rgb(39, 36, 36);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 32px;
+    padding-left: 14px;
+    padding-right: 14px;
+    min-width: 136px;
+    max-width: 230px;
+}
+.search
+{
+    background-color: rgb(39, 36, 36);
+    border: none;
+    padding: 8px;
+    color: white;
+    font-weight: bold;
+}
+input:focus {
+    outline: none;
+    border: none;
+}
+.voice{
+    padding: 8px;
+}
+.profile{
+    height: 40px;
+    width: 40px;
+}
+.search-icon{
+    opacity: 0;
+}
+
+.icon-holder{
+    display: none;
+}
+
+@media screen and (max-width: 1050px){
+
+    .search-voice{
+        display: none;
+    }
+    .search-icon{
+        opacity: 1;
+        padding: 0 14px;
+    }
+}
+
+@media screen and (max-width: 790px){
+    .profile{
+        display: none;
+    }
+
+    .left-content ul{
+        display: none;
+    }
+
+    .icon-holder{
+        bottom: 0;
+        display: flex;
+        background-color:#0D0E10;
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        height: 75px;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    
+    .footer-icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction:column;
+        row-gap: 5px;
+    }
+    .active svg{
+        fill: rgb(217, 0, 141);
+    }
+    
+    .inactive svg
+    {
+        fill:#666666;
+    }
+    .active .icon-name{
+        color: white;
+    }
+    .inactive .icon-name{
+        color: #666666;
+    }
+    
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id":0,
+        "title":"Shazam! Fury of the Gods",
+        "tbnail":"https://v3img.voot.com/v3Storage/assets/shazam-fury-of-the-gods-16x9-2-1692253929378.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/shazam-fury-of-the-gods-3x4(2)-1692253970618.jpg",
+        "language":"English",
+        "showType":"Action",
+        "ageLicence":"U/A 13+",
+        "videoSrc":"https://www.youtube.com/embed/Zi88i4CpHe4?si=L_A7ovt0UYvecDQM",
+        "description":"The film continues the story of teenage Billy Batson who, upon reciting the magic word 'SHAZAM!' is transformed into his adult Super Hero alter ego, Shazam.",
+        "cast":"Zachary Levi, Asher Angel, Jack Dylan Grazer, Rachel Zegler"
+    },
+    {
+        "id":1,
+        "title":"Interstellar",
+        "tbnail":"https://v3img.voot.com/jioimage/newcpp/6476427631febb79b93c3566/6476427631febb79b93c3566_1685472500001_aa.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/interstellar-3x4-1685712339581.jpg?imformat=chrome",
+        "language":"English",
+        "showType":"Movie",
+        "ageLicence":"U/A 13+",
+        "videoSrc":"https://www.youtube.com/embed/zSWdZVtXT7E?si=4RR3brW-sD5dC3mI",
+        "description":"When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "cast":"Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+    },
+    {
+        "id":2,
+        "title":"First Man",
+        "tbnail":"https://v3img.voot.com/jioimage/newcpp/64bc08e1c2771099048d1179/64bc08e1c2771099048d1179_1690045325972_aa.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/first_man_3x4-1690175366765.jpg",
+        "language":"English",
+        "showType":"Biography",
+        "ageLicence":"U/A 13+",
+        "videoSrc":"https://www.youtube.com/embed/PSoRx87OO6k?si=ntJY_pJSPW9yPCov",
+        "description":"A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+        "cast":"Ryan Gosling, Claire Foy, Jason Clarke"
+    },
+    {
+        "id":3,
+        "title":"Suits",
+        "tbnail":"https://v3img.voot.com/v3Storage/assets/suits-16x9-1686382489404.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/8-1686336803737.png",
+        "language":"English",
+        "showType":"Drama",
+        "ageLicence":"U/A 16+",
+        "videoSrc":"https://www.youtube.com/embed/85z53bAebsI?si=una8gEt3Dlq9J3lc",
+        "description":"Many changes are afoot for Harvey and Mike. Harvey finds it difficult to adjust following the firm’s merger with the British firm, Darby International. The merger strains Harvey’s relationship with his boss and mentor, Jessica Pearson, who failed to name Harvey a partner. Harvey still has a chance to earn that status, but first, he must win a difficult case. Meanwhile, Mike weighs many difficult decisions as the potential reveal of his secret threatens to ruin his career and bring down those close to him.",
+        "cast":"Gabriel Macht,  Patrick J. Adams,  Meghan Markle"
+    },
+    {
+        "id":4,
+        "title":"SkyCraper",
+        "tbnail":"https://v3img.voot.com/jioimage/newcpp/64bce456423ced52ef279460/64bce456423ced52ef279460_1690101301061_aa.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/skyscraper-3x4-1690459029607.jpg",
+        "language":"English",
+        "showType":"Action",
+        "ageLicence":"U/A 13+",
+        "videoSrc":"https://www.youtube.com/embed/t9QePUT-Yt8?si=NCQ7h7n_8XUpj2Ts",
+        "description":"A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family is trapped inside by criminals.",
+        "cast":"Dwayne Johnson, Neve Campbell, Chin Han"
+    },
+    {
+        "id":5,
+        "title":"Getout",
+        "tbnail":"https://v3img.voot.com/jioimage/newcpp/6493398cad7de6888ac6e470/6493398cad7de6888ac6e470_1687371309360_aa.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/getout_3x4-1688624962386.jpg",
+        "language":"English",
+        "showType":"Horror",
+        "ageLicence":"U/A 16+",
+        "videoSrc":"https://www.youtube.com/embed/DzfpyUB60YY?si=LkoPEVWLU4ujI0aZ",
+        "description":"A young African-American man visits his white girlfriend's family, only to uncover a disturbing secret.",
+        "cast":"Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener"
+    },
+    {
+        "id":6,
+        "title":"Band of Brothers",
+        "tbnail":"https://v3img.voot.com/v3Storage/assets/band-of-brothers_ivy-16x9-carousel--1685332334056.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/band-of-brothers-3x4-1689673835204.jpg",
+        "language":"English",
+        "showType":"Drama",
+        "ageLicence":"U/A 16+",
+        "videoSrc":"https://www.youtube.com/embed/aH06LWZs-Ys?si=4MT0ELAQT5Sn4bC8",
+        "description":"The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+        "cast":"Kirk Acevedo,  Eion Bailey,  Michael Cudlitz"
+    },
+    {
+        "id":7,
+        "title":"Darkest Hour",
+        "tbnail":"https://v3img.voot.com/v3Storage/assets/darkest-hour_ivy-16x9-carousel-1688624273306.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/darkest-hour-3x4-1688624229469.jpg",
+        "language":"English",
+        "showType":"Biography",
+        "ageLicence":"U/A 13+",
+        "videoSrc":"https://www.youtube.com/embed/LtJ60u7SUSw?si=Rg4DMICexIXpIL1S",
+        "description":"In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",
+        "cast":"Gary Oldman, Lily James"
+    },
+    {
+        "id":8,
+        "title":"The last of us",
+        "tbnail":"https://v3img.voot.com/v3Storage/assets/thelastofus_16_9-1683939702110.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/the-last-of-us-3x4-1683984967746.jpg",
+        "language":"English",
+        "showType":"Adventure",
+        "ageLicence":"A",
+        "videoSrc":"https://www.youtube.com/embed/uLtkt8BonwM?si=4x-_guMttBYhhthf",
+        "description":"The story follows Joel, a smuggler hired to escort a teenage girl, Ellie, across a post-apocalyptic United States, where they encounter other survivors and dangerous infected mutants.",
+        "cast":"Pedro Pascal,  Bella Ramsey,  Gabriel Luna,  Nico Parker,  Merle Dandridge,  Jeffrey Pierce,  Murray Bartlett,  Con O'Neill,  Anna Torv"
+    },
+    {
+        "id":9,
+        "title":"The Dark Knight",
+        "tbnail":"https://v3img.voot.com/v3Storage/assets/the_dark_knight_1920x1080-1685950193383.jpg",
+        "src":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/the-dark-knight-pre-3x4-1684028721346.jpg",
+        "language":"English",
+        "showType":"Action",
+        "ageLicence":"U/A 13+",
+        "videoSrc":"https://www.youtube.com/embed/EXeTwQWrcwY?si=ATMAT-O5P4ZIz-cw",
+        "description":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "cast":"Christian Bale, Heath Ledger, Michael Caine, Aaron Eckhart, Maggie Gyllenhaal, Gary Oldman, Morgan Freeman, Cillian Murphy"
+    }
+]

@@ -1,0 +1,28 @@
+.product-item img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  .product-item{
+    min-width:216px;
+  }
+  @media screen and (max-width: 1200px) {
+    .product-item{
+      min-width:164px;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    .product-item{
+      min-width:150px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .product-item{
+      min-width:138px;
+    }
+  }
+  @media screen and (max-width: 300px) {
+    .product-item{
+      min-width:111px;
+    }
+  }

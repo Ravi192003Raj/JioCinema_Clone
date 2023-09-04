@@ -1,0 +1,53 @@
+.video {
+    display: flex;
+    justify-content: center;
+    background: #000;
+  }
+  
+  .content-heading {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.2;
+  }
+  
+  .show-more-less {
+    padding-left: 5px;
+    cursor: pointer;
+    color: rgb(217, 0, 141);
+    transition: color 0.3s ease-in-out; /* Add transition for color change */
+  }
+  
+  .mylist {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  
+  .content-description {
+    padding: 23px;
+    color: white;
+  }
+  
+  .item-desc {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px; /* Add padding for better spacing */
+    margin-top: 20px; /* Add margin between boxes */
+    background-color: rgb(35, 33, 33); /* Background color */
+    color: rgb(255, 255, 255); /* Adjust box shadow */
+    transition: all 1s ease-out;/* Add transition for smooth height change */
+    max-height: 100px; /* Set initial max-height */
+    overflow: hidden;
+  }
+ 
+  .sub-item{
+    padding-top: 7px;
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .desc-child {
+    align-items: center;
+  }
+  
+  /* Add hover effect for show-more-less span */
+  .show-more-less:hover {
+    color: rgb(172, 0, 117);
+  }
