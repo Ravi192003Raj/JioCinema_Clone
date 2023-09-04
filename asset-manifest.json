@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JioCinema_Clone/static/css/main.c74ad960.css",
+    "main.js": "/JioCinema_Clone/static/js/main.f6a55aad.js",
+    "static/js/787.7378a5ce.chunk.js": "/JioCinema_Clone/static/js/787.7378a5ce.chunk.js",
+    "index.html": "/JioCinema_Clone/index.html",
+    "main.c74ad960.css.map": "/JioCinema_Clone/static/css/main.c74ad960.css.map",
+    "main.f6a55aad.js.map": "/JioCinema_Clone/static/js/main.f6a55aad.js.map",
+    "787.7378a5ce.chunk.js.map": "/JioCinema_Clone/static/js/787.7378a5ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74ad960.css",
+    "static/js/main.f6a55aad.js"
+  ]
+}
