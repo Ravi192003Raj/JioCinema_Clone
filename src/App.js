@@ -7,14 +7,13 @@ import List from './components/List';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/JioCinema_Clone">
       <Routes>
         <Route exact path="/" element={<Home/>}/>
         <Route exact path='/video/:id' element={<Video/>}/>
         <Route exact path='/video/:id/display' element={<Display/>}/>
         <Route exact path='/list' element={<List/>}/>
         <Route exact path='/list/video/:id' element={<Video/>}/>
-
       </Routes>
     </Router>
     </>
